@@ -1,0 +1,94 @@
+19:14:17.126 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+19:14:18.188 Unable to send analytics data, timed out
+19:14:18.196 Gauge daemon initialized and listening on port: 49642
+19:49:34.625 Killing Gauge daemon. Parent process with pid 5704 has terminated.
+19:50:27.536 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+19:50:27.987 Gauge daemon initialized and listening on port: 50977
+19:53:06.818 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+19:53:07.487 [ParseError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:1 Spec should have atleast one scenario => ''
+19:53:08.292 Checking updates...
+19:53:21.586 [ValidationError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:11 Step implementation not found => 'Navigate to "https://www.google.co.in"'
+19:53:21.586 [ValidationError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:12 Step implementation not found => 'Enter query "query" in the search box and submit'
+19:53:21.586 [ValidationError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:13 Step implementation not found => 'The search results should show "Jupiter" as result'
+19:53:24.133 Plugin [Html Report] with pid [3528] has exited
+19:53:24.133 Specifications:	0 executed	0 passed	0 failed	0 skipped
+19:53:24.133 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+19:53:24.133 
+Total time taken: 912ms
+19:54:00.253 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+19:54:01.296 Checking updates...
+19:54:07.258 [ValidationError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:11 Step implementation not found => 'Navigate to "https://www.google.co.in"'
+19:54:07.258 [ValidationError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:12 Step implementation not found => 'Enter query "query" in the search box and submit'
+19:54:07.258 [ValidationError] F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec:13 Step implementation not found => 'The search results should show "Jupiter" as result'
+19:54:07.766 Plugin [Html Report] with pid [4744] has exited
+19:54:07.766 Specifications:	0 executed	0 passed	0 failed	0 skipped
+19:54:07.766 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+19:54:07.766 
+Total time taken: 406ms
+19:58:58.395 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+19:58:59.721 Checking updates...
+19:59:48.115 Plugin [Html Report] with pid [6912] has exited
+19:59:49.117 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:59:49.117 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:59:49.117 
+Total time taken: 35.018s
+20:00:27.448 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+20:00:28.633 Checking updates...
+20:00:48.115 Plugin [Html Report] with pid [7484] has exited
+20:00:48.833 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:00:48.833 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:00:48.833 
+Total time taken: 9.397s
+20:03:34.092 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+20:03:35.354 Checking updates...
+20:04:43.512 Plugin [Html Report] with pid [4712] has exited
+20:04:44.316 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:04:44.316 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:04:44.316 
+Total time taken: 51.848s
+20:15:27.038 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+20:15:28.063 Unable to send analytics data, timed out
+20:15:29.423 Checking updates...
+20:16:20.487 Plugin [Html Report] with pid [412] has exited
+20:16:20.988 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:16:20.988 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:16:20.988 
+Total time taken: 32.73s
+20:30:05.417 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+20:30:06.456 Unable to send analytics data, timed out
+20:30:07.460 Checking updates...
+20:30:24.458 Plugin [Html Report] with pid [4256] has exited
+20:30:24.859 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:30:24.859 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:30:24.859 
+Total time taken: 2.567s
+20:31:14.211 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+20:31:15.347 Checking updates...
+20:32:21.694 Plugin [Html Report] with pid [5704] has exited
+20:32:22.214 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:32:22.214 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:32:22.214 
+Total time taken: 55.906s
+22:59:40.190 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+22:59:42.029 Checking updates...
+23:00:55.868 Plugin [Html Report] with pid [6512] has exited
+23:00:56.476 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:00:56.476 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:00:56.476 
+Total time taken: 49.397s
+23:03:14.746 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+23:03:16.569 Checking updates...
+23:03:54.105 Plugin [Html Report] with pid [7756] has exited
+23:03:54.606 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:03:54.606 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:03:54.606 
+Total time taken: 17.687s
+14:33:56.639 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+14:33:57.400 Gauge daemon initialized and listening on port: 49538
+16:14:07.857 Gauge Install ID: a8bb35c2-a8e9-49e7-b7c7-e34e08ef84b5
+16:14:08.951 Checking updates...
+16:14:41.704 Plugin [Html Report] with pid [6328] has exited
+16:14:42.205 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:14:42.205 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:14:42.205 
+Total time taken: 21.965s

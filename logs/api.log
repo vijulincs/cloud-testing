@@ -1,0 +1,330 @@
+19:14:18.191 Initializing concepts cache with 0 concepts
+19:14:18.195 Initializing specs cache with 1 specs
+19:14:18.196 Adding specs from F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:14:18.196 Initializing steps cache with 1 steps
+19:14:18.229 Watching directory: F:\Plural_Learning\OpenSearchCloudProject\specs
+19:14:18.229 Found 1 files
+19:14:45.496 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.497 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.498 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.499 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.499 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.500 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.502 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.502 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.502 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.503 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.504 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.504 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.506 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.507 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.507 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.507 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.508 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.508 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.511 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.511 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.525 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+19:14:45.525 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+19:14:45.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+19:14:45.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+19:14:51.405 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word \"gauge\" has \"3\" vowels." > 
+19:14:51.406 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > > 
+19:14:51.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+19:14:51.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+19:14:51.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels" hasInlineTable:true > 
+19:14:51.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+19:14:51.430 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+19:14:51.430 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+19:17:28.881 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+19:17:28.882 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+19:17:28.967 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+19:17:28.968 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+19:17:28.982 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+19:17:28.982 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+19:19:37.382 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:19:37.382 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:19:37.394 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:19:50.457 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"" > 
+19:19:50.457 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}" parameterizedStepValue:"Vowels in English language are <aeiou>" parameters:"aeiou" > > 
+19:19:51.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language" > 
+19:19:51.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language" parameterizedStepValue:"Vowels in English language" > > 
+19:19:51.381 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in Engli" > 
+19:19:51.381 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in Engli" parameterizedStepValue:"Vowels in Engli" > > 
+19:19:51.703 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels" > 
+19:19:51.703 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels" parameterizedStepValue:"Vowels" > > 
+19:19:52.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vow" > 
+19:19:52.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vow" parameterizedStepValue:"Vow" > > 
+19:19:52.561 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"V" > 
+19:19:52.561 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"V" parameterizedStepValue:"V" > > 
+19:19:53.125 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:19:53.125 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:19:53.145 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:19:53.145 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:19:53.166 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:19:53.166 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:19:53.214 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:19:53.215 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:19:53.216 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:19:53.216 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:19:53.424 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+19:19:53.424 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+19:19:53.432 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+19:19:53.432 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+19:19:53.516 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+19:19:53.516 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+19:19:53.529 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+19:19:53.529 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+19:19:56.699 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.google.co.in\"" > 
+19:19:56.699 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+19:20:01.642 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:01.643 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:01.647 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:08.393 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:08.393 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:08.564 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:08.564 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:08.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:08.567 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:08.667 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+19:20:08.667 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+19:20:08.668 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+19:20:08.668 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+19:20:11.301 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"query\" in the search box and submit" > 
+19:20:11.301 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+19:20:11.351 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"query\" in the search box and submit" > 
+19:20:11.351 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+19:20:14.387 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:14.387 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:14.389 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:16.498 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.498 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.527 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.528 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.536 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.536 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.590 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.613 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.614 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.689 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.689 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.691 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.691 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.742 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.742 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.754 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.755 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.783 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.783 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.785 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.785 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.882 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.883 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:16.885 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:16.885 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:17.181 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:17.181 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:17.183 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:17.217 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:17.217 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:17.239 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:17.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:17.308 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:17.308 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:17.310 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19:20:17.310 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19:20:18.376 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+19:20:18.376 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > allSteps:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > allSteps:<> allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+19:20:18.377 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+19:20:18.378 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+19:20:21.255 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show \"Jupiter\" as result" > 
+19:20:21.255 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+19:20:30.500 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:30.500 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:20:30.501 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:50:27.985 Initializing concepts cache with 0 concepts
+19:50:27.986 Watching directory: F:\Plural_Learning\OpenSearchCloudProject\specs
+19:50:27.987 Found 1 files
+19:50:27.987 Initializing specs cache with 1 specs
+19:50:27.987 Adding specs from F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:50:27.987 Initializing steps cache with 1 steps
+19:51:33.491 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+19:51:33.491 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+19:51:33.556 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+19:51:33.556 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+19:51:33.832 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show \"Jupiter\" as result" > 
+19:51:33.833 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+19:51:33.834 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.google.co.in\"" > 
+19:51:33.834 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+19:51:33.835 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query \"query\" in the search box and submit" > 
+19:51:33.835 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+19:51:33.837 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+19:51:33.837 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+19:52:52.678 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:52:52.679 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:52:52.680 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:53:21.426 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+19:53:21.427 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+19:53:21.436 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+19:53:21.436 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+19:53:21.437 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+19:53:21.437 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+19:53:53.328 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:53:53.329 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:53:53.331 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:53:57.481 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:53:57.482 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:53:57.501 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+19:54:07.086 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+19:54:07.086 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+19:54:07.096 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+19:54:07.096 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+19:54:07.097 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+19:54:07.097 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+19:59:07.496 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+19:59:07.497 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+19:59:07.514 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+19:59:07.514 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+19:59:07.515 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+19:59:07.515 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:00:35.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+20:00:35.711 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+20:00:35.723 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+20:00:35.724 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+20:00:35.724 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+20:00:35.724 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:03:45.689 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+20:03:45.690 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter query {} in the search box and submit" parameterizedStepValue:"Enter query <query> in the search box and submit" parameters:"query" > > 
+20:03:45.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.in>" > 
+20:03:45.719 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.google.co.in>" parameters:"https://www.google.co.in" > > 
+20:03:45.720 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The search results should show <Jupiter> as result" > 
+20:03:45.720 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The search results should show {} as result" parameterizedStepValue:"The search results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:11:49.142 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com/>" > 
+20:11:49.142 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com/>" parameters:"https://www.utest.com/" > > 
+20:11:52.390 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+20:11:52.390 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:12:06.910 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:12:06.911 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:12:06.934 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:13:05.450 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The pa results should show <Jupiter> as result" > 
+20:13:05.451 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The pa results should show {} as result" parameterizedStepValue:"The pa results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:06.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page results should show <Jupiter> as result" > 
+20:13:06.048 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page results should show {} as result" parameterizedStepValue:"The page results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:07.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must cont results should show <Jupiter> as result" > 
+20:13:07.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must cont results should show {} as result" parameterizedStepValue:"The page must cont results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:08.062 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain results should show <Jupiter> as result" > 
+20:13:08.062 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain results should show {} as result" parameterizedStepValue:"The page must contain results should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:10.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must containresults should show <Jupiter> as result" > 
+20:13:10.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must containresults should show {} as result" parameterizedStepValue:"The page must containresults should show <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:11.780 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must containw <Jupiter> as result" > 
+20:13:11.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must containw {} as result" parameterizedStepValue:"The page must containw <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:12.320 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain <Jupiter> as result" > 
+20:13:12.321 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain {} as result" parameterizedStepValue:"The page must contain <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:13.020 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain t <Jupiter> as result" > 
+20:13:13.021 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain t {} as result" parameterizedStepValue:"The page must contain t <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:13.228 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain t <Jupiter> as result" > 
+20:13:13.229 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain t {} as result" parameterizedStepValue:"The page must contain t <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:13.727 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the <Jupiter> as result" > 
+20:13:13.727 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the {} as result" parameterizedStepValue:"The page must contain the <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:14.656 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the  <Jupiter> as result" > 
+20:13:14.657 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the  {} as result" parameterizedStepValue:"The page must contain the  <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:14.660 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the  <Jupiter> as result" > 
+20:13:14.661 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the  {} as result" parameterizedStepValue:"The page must contain the  <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:15.494 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text val <Jupiter> as result" > 
+20:13:15.494 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text val {} as result" parameterizedStepValue:"The page must contain the text val <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:15.973 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <Jupiter> as result" > 
+20:13:15.973 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <Jupiter> as result" parameters:"Jupiter" > > 
+20:13:19.643 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <Jupi> as result" > 
+20:13:19.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <Jupi> as result" parameters:"Jupi" > > 
+20:13:20.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <J> as result" > 
+20:13:20.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <J> as result" parameters:"J" > > 
+20:13:20.728 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <> as result" > 
+20:13:20.728 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <> as result" parameters:"" > > 
+20:13:23.768 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOI> as result" > 
+20:13:23.769 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOI> as result" parameters:"JOI" > > 
+20:13:24.182 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIJ> as result" > 
+20:13:24.182 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOIJ> as result" parameters:"JOIJ" > > 
+20:13:26.367 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UI> as result" > 
+20:13:26.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOIN UI> as result" parameters:"JOIN UI" > > 
+20:13:27.578 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UITEST> as result" > 
+20:13:27.578 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOIN UITEST> as result" parameters:"JOIN UITEST" > > 
+20:13:27.612 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UITEST> as result" > 
+20:13:27.612 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOIN UITEST> as result" parameters:"JOIN UITEST" > > 
+20:13:28.257 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UITEST    > as result" > 
+20:13:28.257 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOIN UITEST    > as result" parameters:"JOIN UITEST    " > > 
+20:13:35.631 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST> as result" > 
+20:13:35.631 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {} as result" parameterizedStepValue:"The page must contain the text value <JOIN UTEST> as result" parameters:"JOIN UTEST" > > 
+20:14:01.429 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+20:14:01.430 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+20:14:16.387 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:16.387 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:16.411 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:19.045 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value" > 
+20:14:19.045 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value" parameterizedStepValue:"The page must contain the text value" > > 
+20:14:24.211 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value OIN UTEST" > 
+20:14:24.211 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value OIN UTEST" parameterizedStepValue:"The page must contain the text value OIN UTEST" > > 
+20:14:25.404 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value \"OIN UTEST\"" > 
+20:14:25.405 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <OIN UTEST>" parameters:"OIN UTEST" > > 
+20:14:27.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value \"JOIN UTEST\"" > 
+20:14:27.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+20:14:29.210 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:29.210 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:29.225 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:56.457 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\example.spec
+20:14:56.457 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:14:56.459 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:15:15.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.utest.com\"" > 
+20:15:15.316 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:15:15.334 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.utest.com\"" > 
+20:15:15.334 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:15:15.349 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.utest.com\"" > 
+20:15:15.349 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:15:16.601 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:15:16.614 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:15:16.694 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:15:43.857 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+20:15:43.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:15:43.872 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+20:15:43.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+20:25:10.862 Spec file removed: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:25:10.863 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:25:10.864 Spec file added / modified: F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+20:30:16.528 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+20:30:16.528 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:30:16.544 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+20:30:16.544 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+20:31:22.750 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+20:31:22.750 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+20:31:22.761 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+20:31:22.761 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+23:00:00.210 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+23:00:00.211 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+23:00:00.229 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+23:00:00.230 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+23:03:31.862 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+23:03:31.862 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+23:03:31.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+23:03:31.875 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+14:33:57.383 Watching directory: F:\Plural_Learning\OpenSearchCloudProject\specs
+14:33:57.399 Found 1 files
+14:33:57.390 Initializing concepts cache with 0 concepts
+14:33:57.400 Initializing specs cache with 1 specs
+14:33:57.400 Adding specs from F:\Plural_Learning\OpenSearchCloudProject\specs\pageVerify.spec
+14:33:57.400 Initializing steps cache with 1 steps
+14:34:51.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+14:34:51.959 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+14:34:52.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+14:34:52.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+14:34:53.370 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to \"https://www.utest.com\"" > 
+14:34:53.370 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+14:34:53.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value \"JOIN UTEST\"" > 
+14:34:53.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
+16:14:14.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.utest.com>" > 
+16:14:14.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <https://www.utest.com>" parameters:"https://www.utest.com" > > 
+16:14:14.440 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The page must contain the text value <JOIN UTEST>" > 
+16:14:14.440 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The page must contain the text value {}" parameterizedStepValue:"The page must contain the text value <JOIN UTEST>" parameters:"JOIN UTEST" > > 
