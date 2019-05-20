@@ -14,7 +14,7 @@ public class StepImplementation {
 
     @Step("Navigate to <https://www.utest.com>")
     public void navigateTo(String url) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", "./driver/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/opt/cloud-testing/driver/chromedriver");
 
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--headless");
