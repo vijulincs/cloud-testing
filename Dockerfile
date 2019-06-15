@@ -17,4 +17,3 @@ RUN git clone https://github.com/vijulincs/cloud-testing.git
 RUN gauge -v
 RUN chmod 777 /opt/cloud-testing/driver/chromedriver
 cmd cd /opt/cloud-testing; mvn clean test
-
