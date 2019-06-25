@@ -11,7 +11,7 @@ FROM maven:3.6-jdk-8-alpine
       mvn -v
 
 RUN apk add --no-cache git
-RUN apk add --no-cache chromium
+RUN apk --no-cache --update add firefox-esr
 WORKDIR /opt
 RUN git clone https://github.com/vijulincs/cloud-testing.git
 RUN gauge -v
