@@ -21,7 +21,7 @@ public class StepImplementation {
     public void navigateTo(String url) throws InterruptedException {
         browserType = System.getenv("BROWSER");
         if (browserType.equalsIgnoreCase("CHROME")) {
-            System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "/opt/cloud-testing/driver/chromedriver.exe");
 
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--headless");
@@ -31,14 +31,14 @@ public class StepImplementation {
             //driver.manage().window().maximize();
             Thread.sleep(2000);
         } else if (browserType.equalsIgnoreCase("FIREFOX")) {
-            System.setProperty("webdriver.gecko.driver","./driver/geckodriver.exe");
+            System.setProperty("webdriver.gecko.driver","/opt/cloud-testing/driver/geckodriver.exe");
             FirefoxOptions options = new FirefoxOptions();
             WebDriver driver = new FirefoxDriver();
             driver.get(url);
             Thread.sleep(2000);
         }
         else if (browserType.equalsIgnoreCase("IE")) {
-            System.setProperty("webdriver.ie.driver","./driver/IEDriverServer.exe");
+            System.setProperty("webdriver.ie.driver","/opt/cloud-testing/driver/IEDriverServer.exe");
             DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
             capabilities.setCapability("ignnorezoomSetting",true);
             driver = new InternetExplorerDriver(capabilities);
