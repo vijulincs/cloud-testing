@@ -31,7 +31,7 @@ public class StepImplementation {
             //driver.manage().window().maximize();
             Thread.sleep(2000);
         } else if (browserType.equalsIgnoreCase("FIREFOX")) {
-            System.setProperty("webdriver.gecko.driver","/opt/cloud-testing/driver/geckodriver.exe");
+            System.setProperty("webdriver.gecko.driver","/opt/cloud-testing/driver/geckodriver");
             FirefoxOptions options = new FirefoxOptions();
             WebDriver driver = new FirefoxDriver();
             driver.get(url);
