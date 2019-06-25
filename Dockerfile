@@ -15,5 +15,5 @@ RUN apk --no-cache --update add firefox-esr
 WORKDIR /opt
 RUN git clone https://github.com/vijulincs/cloud-testing.git
 RUN gauge -v
-RUN chmod 777 /opt/cloud-testing/driver/chromedriver
+RUN chmod 777 /opt/cloud-testing/driver/geckodriver
 cmd cd /opt/cloud-testing; mvn clean test
