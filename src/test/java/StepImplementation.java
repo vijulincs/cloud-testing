@@ -14,26 +14,21 @@ import static org.junit.Assert.assertEquals;
 
 public class StepImplementation {
 
-    private static WebDriver driver;
-    public static String browserType ="";
-
+    public static String browserType="";
+public WebDriver driver ;
     @Step("Navigate to <https://www.utest.com>")
     public void navigateTo(String url) throws InterruptedException {
-        browserType = System.getenv("BROWSER");
-        if (browserType.equalsIgnoreCase("CHROME")) {
-            System.setProperty("webdriver.chrome.driver", "/opt/cloud-testing/driver/chromedriver.exe");
 
-            ChromeOptions options = new ChromeOptions();
-            options.addArguments("--headless");
-            //options.addArguments("--disable-gpu");
-            driver = new ChromeDriver(options);
+        browserType = System.getenv("BROWSER");
+        System.out.println("============================"+browserType);
+        if (browserType.equalsIgnoreCase("CHROME")) {
+            System.setProperty("webdriver.chrome.driver","./driver/chromedriver");
+            driver = new ChromeDriver();
             driver.get(url);
-            //driver.manage().window().maximize();
             Thread.sleep(2000);
         } else if (browserType.equalsIgnoreCase("FIREFOX")) {
-            System.setProperty("webdriver.gecko.driver","/opt/cloud-testing/driver/geckodriver");
-            FirefoxOptions options = new FirefoxOptions();
-            WebDriver driver = new FirefoxDriver();
+            System.setProperty("webdriver.gecko.driver","./driver/geckodriver");
+            driver = new FirefoxDriver();
             driver.get(url);
             Thread.sleep(2000);
         }
@@ -43,7 +38,7 @@ public class StepImplementation {
             capabilities.setCapability("ignnorezoomSetting",true);
             driver = new InternetExplorerDriver(capabilities);
             driver.get(url);
-            Thread.sleep(2000);
+            Thread.sleep(5000);
         }
     }
     @Step("The page must contain the text value <JOIN UTEST>")
