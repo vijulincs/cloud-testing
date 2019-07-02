@@ -17,4 +17,4 @@ RUN git clone https://github.com/vijulincs/cloud-testing.git
 RUN gauge -v
 RUN chmod 777 /opt/cloud-testing/driver/geckodriver
 cmd cd /opt/cloud-testing; mvn clean test
-cp ./opt/cloud-testing/reports/html-report/index.html
+cp ./opt/cloud-testing/reports/html-report/index.html .
