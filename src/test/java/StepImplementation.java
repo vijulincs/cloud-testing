@@ -22,12 +22,12 @@ public WebDriver driver ;
         browserType = System.getenv("BROWSER");
         System.out.println("============================"+browserType);
         if (browserType.equalsIgnoreCase("CHROME")) {
-            System.setProperty("webdriver.chrome.driver","opt/cloud-testing/driver/chromedriver");
+            System.setProperty("webdriver.chrome.driver","driver/chromedriver");
             driver = new ChromeDriver();
             driver.get(url);
             Thread.sleep(2000);
         } else if (browserType.equalsIgnoreCase("FIREFOX")) {
-            System.setProperty("webdriver.gecko.driver","opt/cloud-testing/driver/geckodriver");
+            System.setProperty("webdriver.gecko.driver","driver/geckodriver");
             driver = new FirefoxDriver();
             driver.get(url);
             Thread.sleep(2000);
