@@ -46,6 +46,7 @@ public WebDriver driver ;
     }
     @Step("The page must contain the text value <JOIN UTEST>")
     public void verifySearchResult(String resultString) {
+        System.out.println("Current URL"+driver.getCurrentUrl());
         WebElement result = driver.findElement(By.xpath("//*[@id=\"mainContent\"]/div/div/div/a"));
         assertEquals(resultString, result.getText());
         driver.close();
