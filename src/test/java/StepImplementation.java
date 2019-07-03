@@ -32,7 +32,8 @@ public WebDriver driver ;
             options.setHeadless(true);
             driver = new FirefoxDriver(options);
             driver.get(url);
-            Thread.sleep(2000);
+            driver.manage().window().maximize();
+            Thread.sleep(10000);
         }
         else if (browserType.equalsIgnoreCase("IE")) {
             System.setProperty("webdriver.ie.driver","/opt/cloud-testing/driver/IEDriverServer.exe");
