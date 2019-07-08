@@ -16,7 +16,7 @@ public class StepImplementation {
 
     public static String browserType="";
 public WebDriver driver ;
-    @Step("Navigate to <https://www.utest.com>")
+    @Step("Navigate to <url>")
     public void navigateTo(String url) throws InterruptedException {
 
         browserType = System.getenv("BROWSER");
@@ -44,10 +44,10 @@ public WebDriver driver ;
             Thread.sleep(5000);
         }
     }
-    @Step("The page must contain the text value <JOIN UTEST>")
+    @Step("The page must contain the text value <text>")
     public void verifySearchResult(String resultString) {
         System.out.println("Current URL"+driver.getCurrentUrl());
-        WebElement result = driver.findElement(By.xpath("//*[@id=\"mainContent\"]/div/div/div/a"));
+        WebElement result = driver.findElement(By.id("menu-item-3085"));
         assertEquals(resultString, result.getText());
         driver.close();
     }
