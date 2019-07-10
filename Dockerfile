@@ -39,4 +39,4 @@ WORKDIR /opt
 RUN git clone https://github.com/vijulincs/cloud-testing.git
 RUN gauge -v
 RUN chmod 777 /opt/cloud-testing/driver/geckodriver
-cmd cd /opt/cloud-testing; mvn clean test; gsutil cp /opt/cloud-testing/reports/html-report/index.html gs://testbucketsalman/
+cmd cd /opt/cloud-testing; mvn clean test; gsutil cp -f /opt/cloud-testing/reports gs://testbucketsalman/
