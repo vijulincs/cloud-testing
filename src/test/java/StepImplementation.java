@@ -22,7 +22,7 @@ public class StepImplementation {
     public static String browserType="";
 public WebDriver driver ;
     @Step("Navigate to <url>")
-    public void navigateTo(String url) throws InterruptedException {
+    public void navigateTo(String url) throws InterruptedException, MalformedURLException {
 
         browserType = System.getenv("BROWSER");
         System.out.println("============================"+browserType);
