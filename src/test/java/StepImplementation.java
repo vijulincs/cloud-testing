@@ -28,9 +28,10 @@ public WebDriver driver ;
             Thread.sleep(2000);
         } else if (browserType.equalsIgnoreCase("FIREFOX")) {
             System.setProperty("webdriver.gecko.driver","driver/geckodriver");
-            FirefoxOptions options = new FirefoxOptions();
+             FirefoxOptions options = new FirefoxOptions();
             options.setHeadless(true);
-            driver = new FirefoxDriver(options);
+            //driver = new FirefoxDriver(options);
+            driver = new RemoteWebDriver(new URL("http://34.67.62.104:4444/grid/console"),options);
             driver.get(url);
             driver.manage().window().maximize();
             Thread.sleep(10000);
