@@ -47,7 +47,7 @@ public WebDriver driver ;
         }
         else if (browserType.equalsIgnoreCase("IE")) {
             System.setProperty("webdriver.ie.driver","/opt/cloud-testing/driver/IEDriverServer.exe");
-            DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
+            capabilities = DesiredCapabilities.internetExplorer();
             capabilities.setCapability("ignnorezoomSetting",true);
             driver = new InternetExplorerDriver(capabilities);
             driver.get(url);
