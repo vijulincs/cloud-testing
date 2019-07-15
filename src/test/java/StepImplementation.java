@@ -21,6 +21,7 @@ public class StepImplementation {
 
     public static String browserType="";
 public WebDriver driver ;
+    DesiredCapabilities capabilities;
     @Step("Navigate to <url>")
     public void navigateTo(String url) throws InterruptedException, MalformedURLException {
 
