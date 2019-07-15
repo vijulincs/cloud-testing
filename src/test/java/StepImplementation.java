@@ -32,7 +32,7 @@ public WebDriver driver ;
             driver.get(url);
             Thread.sleep(2000);
         } else if (browserType.equalsIgnoreCase("FIREFOX")) {
-            System.setProperty("webdriver.gecko.driver","driver/geckodriver");
+            //System.setProperty("webdriver.gecko.driver","driver/geckodriver");
              FirefoxOptions options = new FirefoxOptions();
             options.setHeadless(true);
             //driver = new FirefoxDriver(options);
